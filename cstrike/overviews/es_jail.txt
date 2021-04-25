@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.43
+	ORIGIN	-1288	680	-3569
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/es_jail.bmp"
+	HEIGHT	-3569
+}
